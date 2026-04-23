@@ -1,5 +1,5 @@
 # Este Manifesto possui:
-
+![Imagem exemplo](Diagram.png)
 1. Um [Manifesto](manifest.md) (lógico)
 2. Uma  indicação de [Arquitetura](architecture.md)
 3. Um [Glossário](pain-glossary.md)
